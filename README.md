@@ -1,3 +1,3 @@
 #Blog | NextJS
 
-- (grey-matter)[https://github.com/jonschlinkert/gray-matter]
+- [grey-matter](https://github.com/jonschlinkert/gray-matter)
