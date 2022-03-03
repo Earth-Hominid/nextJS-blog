@@ -1,5 +1,9 @@
 # Blog | NextJS
 
+NextJS blog tutorial.
+
+### Dependencies
+
 - [grey-matter](https://github.com/jonschlinkert/gray-matter)
 
 - [remark](https://github.com/remarkjs/remark)
